@@ -62,7 +62,8 @@ The dashboard enables businesses to monitor overall sales performance, identify 
 
 ## 📷 Dashboard Preview
 
-"Pizza Sales Performance Dashboard" (./images/pizza-sales-dashboard.png)
+"Pizza Sales Performance Dashboard" 
+![Dashboard Preview](https://github.com/SeemakurthiGirish/PIZZA-SALES-PERFORMANCE-DASHBOARD/blob/main/Pizza%20Sales%20Performance%20Dashboard.png)
 
 ---
 
